@@ -3,7 +3,7 @@ name: Run Tests
 on:
   push:
     branches:
-      - 2021-08-02-github-actions-kyma
+      - main
 
 jobs:
   run-test:
