@@ -1,0 +1,14 @@
+{
+  "name": "tech-bytes_kyma-cicd",
+  "version": "1.1.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "node buildScript.js",
+    "test": "echo \"Success\" "
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "replace-in-file": "^6.2.0"
+  }
+}
