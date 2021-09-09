@@ -7,7 +7,7 @@ on: workflow_dispatch
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: sap-samples/tech-bytes-kyma-cicd
+  IMAGE_NAME: sathishgs56/btptest
 
 jobs:
   deploy-to-dev:
